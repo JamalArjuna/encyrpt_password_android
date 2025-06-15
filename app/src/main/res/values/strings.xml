@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MatDis_Enkripsi</string>
+    <string name="header">Enkripsi Password</string>
+    <string name="hintInputPassword">Masukkan Password</string>
+    <string name="textButtonEncrypt">Encrypt</string>
+    <string name="hintOutput">Hasil enkripsi akan muncul disini</string>
+    <string name="textButtonDecrypt">Decrypt</string>
+</resources>
